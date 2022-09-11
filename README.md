@@ -12,3 +12,5 @@ Next.js와 TypeScript에 익숙해지기 위해 수강한 강의에서 진행한
 
 - getStaticPath
 - getStaticProps
+
+- revalidate
